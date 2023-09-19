@@ -64,7 +64,7 @@ img:hover {
 }
 
 footer {
-    
+    background-color: coral;
     width: 300px;
     position: fixed;
     bottom: 25px;
