@@ -37,6 +37,15 @@ nav {
     border-radius: 25%;
 }
 
+a {
+    text-decoration: none;
+    color: honeydew;
+}
+
+nav h5:hover {
+    background-color: lightsteelblue;
+}
+
 header:hover {
     background-color: honeydew;
 }
