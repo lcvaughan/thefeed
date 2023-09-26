@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Major+Mono+Display&family=Staatliches&family=Tilt+Prism&display=swap');
 
 body {
+    background-image: url(../img/green\ and\ yellow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
    background-color: lightcyan ;
     max-width: 1200px;
     margin: auto;
@@ -14,6 +17,10 @@ header {
     position: fixed;
     top: 25px;
     left: 25px;
+    text-align: center;
+}
+
+h2 {
     text-align: center;
 }
 
