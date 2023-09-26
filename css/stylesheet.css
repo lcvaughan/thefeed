@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Staatliches&family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Major+Mono+Display&family=Staatliches&family=Tilt+Prism&display=swap');
 
 body {
-   
+   background-color: lightcyan ;
     max-width: 1200px;
     margin: auto;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Staatliches', cursive;
 }
 
 header {
@@ -47,7 +48,7 @@ nav h5:hover {
 }
 
 header:hover {
-    background-color: honeydew;
+    background-color: lightcyan;
 }
 
 main {
@@ -57,8 +58,9 @@ main {
 }
 
 section {
-    background-color: lightsteelblue;
-    border: 1px darkblue solid;
+    font-family: 'Allerta Stencil', sans-serif;
+    background-color: lightblue;
+    border: 5px coral double;
     margin-top: 25px;
     padding: 25px;
     text-align: center;
@@ -66,15 +68,14 @@ section {
 }
 
 section img {
-    
-    background-color: dimgray;
-    border: 1px darkblue solid;
+    background-color:dimgray;
+    border: 1px yellowgreen solid;
     padding: 10px;
     border-radius: 25px;
 }
 
-img:hover {
-    background-color: honeydew;
+section img:hover {
+    background-color: yellowgreen;
 }
 
 footer {
